@@ -1,0 +1,21 @@
+{
+  "name": "reactest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server-1.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkotian/reactest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkotian/reactest/issues"
+  },
+  "homepage": "https://github.com/mkotian/reactest#readme"
+}
